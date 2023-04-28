@@ -1,0 +1,23 @@
+/* Write your CSS here */
+
+bg-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.heading {
+  color: black;
+}
+
+.paragraph {
+  color: black;
+}
+
+.span {
+  color: purple;
+}
+
+.button {
+  background-color: blue;
+  border-radius: 5px;
+}
